@@ -1,3 +1,18 @@
+body{
+	overflow-x: hidden;
+  	overflow-y: hidden;
+}
+
 .row{
 	padding: 10px;
+}
+
+.result_div{
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.result{
+	font-size: xx-large;
 }
